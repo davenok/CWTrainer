@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Demo and test temporary files
+/tmp/
+take_screenshot.py
